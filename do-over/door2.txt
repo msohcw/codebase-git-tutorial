@@ -1,1 +1,4 @@
-Darn. This door looks locked. If only there was a key.
+An adventurer is you! Well. At least a git adventurer.
+Use your git powers to unlock all three doors. Here's
+your first hint: There's a picture of a 2~HEADed Dragon
+on the wall.

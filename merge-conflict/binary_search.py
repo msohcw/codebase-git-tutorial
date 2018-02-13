@@ -1,4 +1,7 @@
-def binary_search(start, end, search):
+import sys 
+
+if __name__ == '__main__':
+    start, end, search = argv[1:]
     mid, count = start - 1, 0
     while start < end:
         mid += 1
